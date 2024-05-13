@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "boardgamegeekclient": "^1.9.1",
+    "commander": "^12.0.0",
+    "nodemon": "^3.1.0",
+    "puppeteer": "^22.6.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  },
+  "scripts": {
+    "dump": "ts-node ./src/dump",
+    "top:1000": "ts-node ./src/top",
+    "dev:top:1000": "nodemon ./src/top.ts",
+    "designers": "ts-node ./src/designers",
+    "mechanics": "ts-node ./src/mechanics",
+    "year": "ts-node ./src/year"
+  }
+}
