@@ -1,0 +1,629 @@
+
+> @ by-mechanism /Users/mmontgomery/dev/boardgames/board-games-analytics
+> ts-node ./src/retrieve-games-by-mechanism
+
+https://boardgamegeek.com/boardgame/244522/thats-pretty-clever,244522,176,"That's Pretty Clever!",2018
+https://boardgamegeek.com/boardgame/295374/long-shot-the-dice-game,295374,311,"Long Shot: The Dice Game",2022
+https://boardgamegeek.com/boardgame/269210/twice-as-clever,269210,409,"Twice as Clever!",2019
+https://boardgamegeek.com/boardgame/245654/railroad-ink-deep-blue-edition,245654,557,"Railroad Ink: Deep Blue Edition",2018
+https://boardgamegeek.com/boardgame/245961/fleet-the-dice-game,245961,573,"Fleet: The Dice Game",2018
+https://boardgamegeek.com/boardgame/318009/dinosaur-island-rawr-n-write,318009,629,"Dinosaur Island: Rawr 'n Write",2021
+https://boardgamegeek.com/boardgame/291845/three-sisters,291845,730,"Three Sisters",2022
+https://boardgamegeek.com/boardgame/306881/railroad-ink-challenge-lush-green-edition,306881,744,"Railroad Ink Challenge: Lush Green Edition",2021
+https://boardgamegeek.com/boardgame/361545/twilight-inscription,361545,752,"Twilight Inscription",2022
+https://boardgamegeek.com/boardgame/251678/railroad-ink-blazing-red-edition,251678,845,"Railroad Ink: Blazing Red Edition",2018
+https://boardgamegeek.com/boardgame/316546/clever-cubed,316546,896,"Clever Cubed",2020
+https://boardgamegeek.com/boardgame/131260/qwixx,131260,930,"Qwixx",2012
+https://boardgamegeek.com/boardgame/37380/roll-through-the-ages-the-bronze-age,37380,942,"Roll Through the Ages: The Bronze Age",2008
+https://boardgamegeek.com/boardgame/318553/rajas-of-the-ganges-the-dice-charmers,318553,1024,"Rajas of the Ganges: The Dice Charmers",2020
+https://boardgamegeek.com/boardgame/305682/rolling-realms,305682,1082,"Rolling Realms",2021
+https://boardgamegeek.com/boardgame/206931/encore,206931,1189,"Encore!",2016
+https://boardgamegeek.com/boardgame/251412/on-tour,251412,1276,"On Tour",2019
+https://boardgamegeek.com/boardgame/302524/super-skill-pinball-4-cade,302524,1349,"Super-Skill Pinball: 4-Cade",2020
+https://boardgamegeek.com/boardgame/183006/qwinto,183006,1362,"Qwinto",2015
+https://boardgamegeek.com/boardgame/291962/paper-dungeons-a-dungeon-scrawler-game,291962,1398,"Paper Dungeons: A Dungeon Scrawler Game",2020
+https://boardgamegeek.com/boardgame/232988/the-castles-of-burgundy-the-dice-game,232988,1421,"The Castles of Burgundy: The Dice Game",2017
+https://boardgamegeek.com/boardgame/368432/the-fox-experiment,368432,1511,"The Fox Experiment",2023
+https://boardgamegeek.com/boardgame/306882/railroad-ink-challenge-shining-yellow-edition,306882,1541,"Railroad Ink Challenge: Shining Yellow Edition",2021
+https://boardgamegeek.com/boardgame/328326/fleet-the-dice-game-second-edition,328326,1567,"Fleet: The Dice Game (Second Edition)",2020
+https://boardgamegeek.com/boardgame/366162/clever-4ever,366162,1568,"Clever 4Ever",2022
+https://boardgamegeek.com/boardgame/350736/voyages,350736,1663,"Voyages",2021
+https://boardgamegeek.com/boardgame/284584/troyes-dice,284584,1670,"Troyes Dice",2020
+https://boardgamegeek.com/boardgame/349463/dungeons-dice-and-danger,349463,1770,"Dungeons, Dice & Danger",2022
+https://boardgamegeek.com/boardgame/269725/corinth,269725,1894,"Corinth",2019
+https://boardgamegeek.com/boardgame/351476/my-city-roll-and-build,351476,1942,"My City: Roll & Build",2022
+https://boardgamegeek.com/boardgame/303672/trek-12-himalaya,303672,1990,"Trek 12: Himalaya",2020
+https://boardgamegeek.com/boardgame/195528/la-granja-no-siesta,195528,2028,"La Granja: No Siesta",2016
+https://boardgamegeek.com/boardgame/285894/bravo,285894,2061,"Bravo!",2019
+https://boardgamegeek.com/boardgame/281960/kingdomino-duel,281960,2306,"Kingdomino Duel",2019
+https://boardgamegeek.com/boardgame/321108/riverside,321108,2484,"Riverside",2021
+https://boardgamegeek.com/boardgame/296626/sonora,296626,2542,"Sonora",2020
+https://boardgamegeek.com/boardgame/231280/harvest-dice,231280,2555,"Harvest Dice",2017
+https://boardgamegeek.com/boardgame/313531/rustling-leaves,313531,2644,"Rustling Leaves",2020
+https://boardgamegeek.com/boardgame/139899/vivajava-the-coffee-game-the-dice-game,139899,2709,"VivaJava: The Coffee Game: The Dice Game",2014
+https://boardgamegeek.com/boardgame/269199/dizzle,269199,2712,"Dizzle",2019
+https://boardgamegeek.com/boardgame/208775/qwixx-deluxe,208775,2854,"Qwixx Deluxe",2016
+https://boardgamegeek.com/boardgame/117960/saint-malo,117960,2857,"Saint Malo",2012
+https://boardgamegeek.com/boardgame/240225/roll-to-the-top,240225,2890,"Roll to the Top!",2018
+https://boardgamegeek.com/boardgame/327831/lost-cities-roll-and-write,327831,2898,"Lost Cities: Roll & Write",2021
+https://boardgamegeek.com/boardgame/335116/motor-city,335116,2994,"Motor City",2023
+https://boardgamegeek.com/boardgame/297895/divvy-dice,297895,3006,"Divvy Dice",2020
+https://boardgamegeek.com/boardgame/182704/steamrollers,182704,3033,"SteamRollers",2015
+https://boardgamegeek.com/boardgame/232524/welcome-to-dino-world,232524,3111,"Welcome to Dino World",2017
+https://boardgamegeek.com/boardgame/193210/dice-stars,193210,3250,"Dice Stars",2016
+https://boardgamegeek.com/boardgame/267009/rome-and-roll,267009,3321,"Rome & Roll",2020
+https://boardgamegeek.com/boardgame/150926/roll-through-the-ages-the-iron-age,150926,3340,"Roll Through the Ages: The Iron Age",2014
+https://boardgamegeek.com/boardgame/369751/sagrada-artisans,369751,3376,"Sagrada Artisans",2023
+https://boardgamegeek.com/boardgame/274090/lanterns-dice-lights-in-the-sky,274090,3441,"Lanterns Dice: Lights in the Sky",2019
+https://boardgamegeek.com/boardgame/117942/zooloretto-the-dice-game,117942,3449,"Zooloretto: The Dice Game",2012
+https://boardgamegeek.com/boardgame/270836/imperial-settlers-roll-and-write,270836,3477,"Imperial Settlers: Roll & Write",2019
+https://boardgamegeek.com/boardgame/360471/aquamarine,360471,3506,"Aquamarine",2022
+https://boardgamegeek.com/boardgame/255360/bargain-basement-bathysphere,255360,3513,"Bargain Basement Bathysphere",2022
+https://boardgamegeek.com/boardgame/180198/rolling-america,180198,3533,"Rolling America",2015
+https://boardgamegeek.com/boardgame/377420/mind-space,377420,3659,"Mind Space",2023
+https://boardgamegeek.com/boardgame/388329/waypoints,388329,3664,"Waypoints",2023
+https://boardgamegeek.com/boardgame/249673/rolling-ranch,249673,3728,"Rolling Ranch",2019
+https://boardgamegeek.com/boardgame/269041/calavera,269041,3864,"Calavera",2019
+https://boardgamegeek.com/boardgame/75223/utopia-engine,75223,3929,"Utopia Engine",2010
+https://boardgamegeek.com/boardgame/328826/super-skill-pinball-ramp-it-up,328826,4031,"Super-Skill Pinball: Ramp it Up!",2021
+https://boardgamegeek.com/boardgame/180231/octodice,180231,4038,"OctoDice",2015
+https://boardgamegeek.com/boardgame/321641/merchants-of-magick-a-set-a-watch-tale,321641,4074,"Merchants of Magick: A Set a Watch Tale",2021
+https://boardgamegeek.com/boardgame/282463/copenhagen-roll-and-write,282463,4194,"Copenhagen: Roll & Write",2019
+https://boardgamegeek.com/boardgame/275469/floor-plan,275469,4221,"Floor Plan",2020
+https://boardgamegeek.com/boardgame/6955/reiner-knizias-decathlon,6955,4307,"Reiner Knizia's Decathlon",2003
+https://boardgamegeek.com/boardgame/335240/vengeance-roll-and-fight-episode-1,335240,4344,"Vengeance: Roll & Fight – Episode 1",2022
+https://boardgamegeek.com/boardgame/350185/draft-and-write-records,350185,4431,"Draft & Write Records",2024
+https://boardgamegeek.com/boardgame/257726/brikks,257726,4509,"Brikks",2018
+https://boardgamegeek.com/boardgame/403265/marabunta,403265,4542,"Marabunta",2023
+https://boardgamegeek.com/boardgame/341512/en-las-cenizas,341512,4553,"En Las Cenizas",2022
+https://boardgamegeek.com/boardgame/275840/dungeon-academy,275840,4629,"Dungeon Academy",2019
+https://boardgamegeek.com/boardgame/300523/biblios-quill-and-parchment,300523,4741,"Biblios: Quill and Parchment",2021
+https://boardgamegeek.com/boardgame/55834/mosaix,55834,4826,"Mosaix",2009
+https://boardgamegeek.com/boardgame/279135/cat-cafe,279135,4872,"Cat Café",2019
+https://boardgamegeek.com/boardgame/217475/twenty-one,217475,4905,"Twenty One",2017
+https://boardgamegeek.com/boardgame/29355/wurfel-bingo,29355,4962,"Würfel Bingo",2007
+https://boardgamegeek.com/boardgame/344415/trek-12-amazonia,344415,4964,"Trek 12: Amazonia",2021
+https://boardgamegeek.com/boardgame/266188/seven-bridges,266188,5058,"Seven Bridges",2020
+https://boardgamegeek.com/boardgame/162107/doodle-city,162107,5120,"Doodle City",2014
+https://boardgamegeek.com/boardgame/141067/history-maker-baseball,141067,5173,"History Maker Baseball",2013
+https://boardgamegeek.com/boardgame/220988/criss-cross,220988,5198,"Criss Cross",2017
+https://boardgamegeek.com/boardgame/244994/wurfelland,244994,5247,"Würfelland",2018
+https://boardgamegeek.com/boardgame/242569/penny-papers-adventures-the-valley-of-wiraqocha,242569,5309,"Penny Papers Adventures: The Valley of Wiraqocha",2018
+https://boardgamegeek.com/boardgame/200551/30-rails,200551,5319,"30 Rails",2016
+https://boardgamegeek.com/boardgame/374145/dungeon-pages-core-set,374145,5376,"Dungeon Pages: Core Set",2023
+https://boardgamegeek.com/boardgame/370193/roll-to-the-top-journeys,370193,5504,"Roll to the Top: Journeys",2023
+https://boardgamegeek.com/boardgame/367442/french-quarter,367442,5568,"French Quarter",2024
+https://boardgamegeek.com/boardgame/217547/cant-stop-express,217547,5595,"Can't Stop Express",1989
+https://boardgamegeek.com/boardgame/353311/star-trek-super-skill-pinball,353311,5659,"Star Trek: Super-Skill Pinball",2022
+https://boardgamegeek.com/boardgame/267568/hexroller,267568,5746,"HexRoller",2019
+https://boardgamegeek.com/boardgame/284825/florenza-dice-game,284825,5807,"Florenza Dice Game",2019
+https://boardgamegeek.com/boardgame/272085/bloom,272085,5844,"Bloom",2019
+https://boardgamegeek.com/boardgame/311465/roll-and-raid,311465,5852,"Roll & Raid",2020
+https://boardgamegeek.com/boardgame/335678/lets-make-a-bus-route-the-dice-game,335678,6008,"Let's Make a Bus Route: The Dice Game",2021
+https://boardgamegeek.com/boardgame/345887/dice-kingdoms-of-valeria,345887,6063,"Dice Kingdoms of Valeria",2022
+https://boardgamegeek.com/boardgame/228390/sunflower-valley,228390,6132,"Sunflower Valley",2017
+https://boardgamegeek.com/boardgame/283289/clipcut-parks,283289,6151,"ClipCut Parks",2019
+https://boardgamegeek.com/boardgame/291511/medici-the-dice-game,291511,6177,"Medici: The Dice Game",2020
+https://boardgamegeek.com/boardgame/360706/on-tour-paris-and-new-york,360706,6200,"On Tour: Paris and New York",2022
+https://boardgamegeek.com/boardgame/175755/the-lord-of-the-rings-journey-to-mordor,175755,6294,"The Lord of the Rings: Journey to Mordor",2015
+https://boardgamegeek.com/boardgame/217423/cosmic-run-rapid-fire,217423,6313,"Cosmic Run: Rapid Fire",2017
+https://boardgamegeek.com/boardgame/230358/penny-papers-adventures-the-temple-of-apikhabou,230358,6323,"Penny Papers Adventures: The Temple of Apikhabou",2018
+https://boardgamegeek.com/boardgame/354892/thats-pretty-clever-kids,354892,6340,"That's Pretty Clever! Kids",2022
+https://boardgamegeek.com/boardgame/334646/dice-hospital-er-emergency-roll,334646,6343,"Dice Hospital: ER – Emergency Roll",2022
+https://boardgamegeek.com/boardgame/163377/rolling-japan,163377,6409,"Rolling Japan",2014
+https://boardgamegeek.com/boardgame/2371/extra,2371,6465,"Extra!",2011
+https://boardgamegeek.com/boardgame/244333/once-upon-a-castle,244333,6471,"Once Upon a Castle",2018
+https://boardgamegeek.com/boardgame/262388/qwantum,262388,6505,"Qwantum",2018
+https://boardgamegeek.com/boardgame/319320/wok-and-roll,319320,6556,"Wok and Roll",2020
+https://boardgamegeek.com/boardgame/228570/raging-bulls,228570,6629,"Raging Bulls",2017
+https://boardgamegeek.com/boardgame/193083/kribbeln,193083,6661,"Kribbeln",2016
+https://boardgamegeek.com/boardgame/356996/the-border,356996,6670,"The Border",2022
+https://boardgamegeek.com/boardgame/241025/penny-papers-adventures-skull-island,241025,6780,"Penny Papers Adventures: Skull Island",2018
+https://boardgamegeek.com/boardgame/301441/drawn-to-adventure,301441,6866,"Drawn to Adventure",2021
+https://boardgamegeek.com/boardgame/330538/all-on-1-card,330538,6907,"All on 1 Card",2021
+https://boardgamegeek.com/boardgame/349131/splitter,349131,6924,"Splitter",2021
+https://boardgamegeek.com/boardgame/398898/high-season-grand-hotel-roll-and-write,398898,6935,"High Season: Grand Hotel Roll & Write",2023
+https://boardgamegeek.com/boardgame/1302/cosmic-wimpout,1302,6951,"Cosmic Wimpout",1975
+https://boardgamegeek.com/boardgame/335664/vengeance-roll-and-fight-episode-2,335664,7083,"Vengeance: Roll & Fight – Episode 2",2022
+https://boardgamegeek.com/boardgame/258437/bukiet,258437,7193,"Bukiet",2018
+https://boardgamegeek.com/boardgame/27710/catan-dice-game,27710,7475,"Catan Dice Game",2007
+https://boardgamegeek.com/boardgame/232661/ada-lovelace-consulting-mathematician,232661,7476,"Ada Lovelace: Consulting Mathematician",2017
+https://boardgamegeek.com/boardgame/260788/knapp-daneben,260788,7559,"Knapp Daneben!",2018
+https://boardgamegeek.com/boardgame/329607/baseball-highlights-the-dice-game,329607,7650,"Baseball Highlights: The Dice Game",2021
+https://boardgamegeek.com/boardgame/365608/roll-for-great-old-ones-a-roll-and-write-game,365608,7845,"Roll for Great Old Ones: A Roll & Write Game",2023
+https://boardgamegeek.com/boardgame/345036/qwixx-longo,345036,8012,"Qwixx Longo",2021
+https://boardgamegeek.com/boardgame/287693/anubixx,287693,8026,"Anubixx",2019
+https://boardgamegeek.com/boardgame/401543/newsboys,401543,8043,"Newsboys",2023
+https://boardgamegeek.com/boardgame/337784/number-drop,337784,8175,"Number Drop",2021
+https://boardgamegeek.com/boardgame/308565/roll-n-cook,308565,8181,"Roll n Cook",2020
+https://boardgamegeek.com/boardgame/367978/super-skill-pinball-holiday-special,367978,8271,"Super-Skill Pinball: Holiday Special",2022
+https://boardgamegeek.com/boardgame/306494/rolling-village,306494,8387,"Rolling Village",2022
+https://boardgamegeek.com/boardgame/284054/smoothies,284054,8389,"Smoothies",2019
+https://boardgamegeek.com/boardgame/362121/sunshine-city,362121,8470,"Sunshine City",2022
+https://boardgamegeek.com/boardgame/386436/house-of-cats,386436,8542,"House of Cats",2023
+https://boardgamegeek.com/boardgame/375440/61-feuilles-dautomne,375440,8633,"61 Feuilles d'automne",2022
+https://boardgamegeek.com/boardgame/366194/a-wayfarers-tale,366194,8648,"A Wayfarer's Tale",2022
+https://boardgamegeek.com/boardgame/199269/1572-the-lost-expedition,199269,8674,"1572: The Lost Expedition",2016
+https://boardgamegeek.com/boardgame/257667/tag-city,257667,8849,"Tag City",2018
+https://boardgamegeek.com/boardgame/287691/qwixx-on-board,287691,8864,"Qwixx On Board",2019
+https://boardgamegeek.com/boardgame/375408/woodcraft-roll-and-write,375408,8879,"Woodcraft: Roll and Write",2022
+https://boardgamegeek.com/boardgame/309698/roar-and-write,309698,8942,"Roar and Write!",2022
+https://boardgamegeek.com/boardgame/357872/island-alone,357872,8955,"Island Alone",2022
+https://boardgamegeek.com/boardgame/297569/spicy-dice,297569,9036,"Spicy Dice",2018
+https://boardgamegeek.com/boardgame/280041/rolled-west,280041,9064,"Rolled West",2019
+https://boardgamegeek.com/boardgame/229782/roland-wright-the-dice-game,229782,9067,"Roland Wright: The Dice Game",2020
+https://boardgamegeek.com/boardgame/381827/pick-a-pen-gardens,381827,9095,"Pick a Pen: Gardens",2023
+https://boardgamegeek.com/boardgame/285535/5er-finden,285535,9192,"5er Finden",2019
+https://boardgamegeek.com/boardgame/298166/hungry-hamsters,298166,9234,"Hungry Hamsters",2020
+https://boardgamegeek.com/boardgame/328289/roll-em-fold-em,328289,9236,"Roll 'em Fold 'em",2021
+https://boardgamegeek.com/boardgame/368846/dice-cards,368846,9308,"Dice Cards",2023
+https://boardgamegeek.com/boardgame/310198/escape-roll-and-write,310198,9314,"Escape: Roll & Write",2021
+https://boardgamegeek.com/boardgame/306577/clou-roll-and-heist-again,306577,9486,"Clou: Roll & Heist. Again!",2020
+https://boardgamegeek.com/boardgame/302212/sebastian-fitzek-safehouse-wurfelspiel,302212,9497,"Sebastian Fitzek Safehouse Würfelspiel",2020
+https://boardgamegeek.com/boardgame/349805/bismarck-solitaire,349805,9533,"Bismarck Solitaire",2021
+https://boardgamegeek.com/boardgame/369384/blockits,369384,9637,"Blockits",2022
+https://boardgamegeek.com/boardgame/298164/volle-weide,298164,9674,"Volle Weide",2020
+https://boardgamegeek.com/boardgame/270677/knaster,270677,9681,"Knaster",2019
+https://boardgamegeek.com/boardgame/292506/bresk,292506,9700,"Bresk!",2020
+https://boardgamegeek.com/boardgame/390903/villagers-of-the-oak-dell,390903,9865,"Villagers of the Oak Dell",2023
+https://boardgamegeek.com/boardgame/181956/romisch-pokern,181956,9918,"Römisch Pokern",2015
+https://boardgamegeek.com/boardgame/363633/shus-tactics,363633,9960,"Shu's Tactics",2023
+https://boardgamegeek.com/boardgame/378013/dungeon-pages-year-long-adventure-set,378013,9975,"Dungeon Pages: Year-Long Adventure Set",2023
+https://boardgamegeek.com/boardgame/289916/t-rexs-holiday,289916,9990,"T-Rex's Holiday",2019
+https://boardgamegeek.com/boardgame/362965/kunterpunkt-das-wuselige-wurfelspiel,362965,10055,"Kunterpunkt: Das wuselige Würfelspiel",2022
+https://boardgamegeek.com/boardgame/358663/pocket-book-adventures,358663,10116,"Pocket Book Adventures",
+https://boardgamegeek.com/boardgame/181331/qwingo,181331,10228,"Qwingo",2015
+https://boardgamegeek.com/boardgame/312259/rollway-station,312259,10383,"Rollway Station",2020
+https://boardgamegeek.com/boardgame/290982/roll-estate,290982,10465,"Roll Estate",2019
+https://boardgamegeek.com/boardgame/370687/find-the-source,370687,10546,"Find the Source",2023
+https://boardgamegeek.com/boardgame/193105/utopia-engine-beast-hunter,193105,10849,"Utopia Engine: Beast Hunter",2013
+https://boardgamegeek.com/boardgame/191067/zock-n-roll,191067,10911,"Zock 'n' Roll",2016
+https://boardgamegeek.com/boardgame/360121/mission-control-critical-orbit,360121,10945,"Mission Control: Critical Orbit",2023
+https://boardgamegeek.com/boardgame/320677/noch-mal-kids,320677,10965,"Noch mal!: Kids",2020
+https://boardgamegeek.com/boardgame/229496/pencils-and-powers,229496,10988,"Pencils & Powers",2017
+https://boardgamegeek.com/boardgame/298173/honey-moon,298173,11003,"Honey Moon",2020
+https://boardgamegeek.com/boardgame/333136/football-highlights-the-dice-game,333136,11015,"Football Highlights: The Dice Game",2021
+https://boardgamegeek.com/boardgame/370566/triggs,370566,11182,"Triggs",2022
+https://boardgamegeek.com/boardgame/298171/thread-count,298171,11195,"Thread Count",2020
+https://boardgamegeek.com/boardgame/378833/happy-campers,378833,11203,"Happy Campers",2023
+https://boardgamegeek.com/boardgame/237106/doom-realm,237106,11397,"Doom Realm",2017
+https://boardgamegeek.com/boardgame/351956/crop-circles,351956,11522,"Crop Circles",2022
+https://boardgamegeek.com/boardgame/253575/the-gig,253575,11524,"The Gig",2023
+https://boardgamegeek.com/boardgame/87632/escape-of-the-dead-minigame,87632,11712,"Escape of the Dead Minigame",2010
+https://boardgamegeek.com/boardgame/310578/paleontologists,310578,11727,"Paleontologists",2020
+https://boardgamegeek.com/boardgame/346621/nirvana,346621,11802,"Nirvana",2021
+https://boardgamegeek.com/boardgame/8944/triple-yahtzee,8944,11809,"Triple Yahtzee",1972
+https://boardgamegeek.com/boardgame/371687/a-simple-life,371687,11823,"A Simple Life",2022
+https://boardgamegeek.com/boardgame/277066/bienvenue-a-bord,277066,11847,"Bienvenue à bord",2019
+https://boardgamegeek.com/boardgame/308386/lantern,308386,11855,"LANTERN",2019
+https://boardgamegeek.com/boardgame/274735/13-sheep,274735,11898,"13 Sheep",2019
+https://boardgamegeek.com/boardgame/358995/kaikoro,358995,12096,"Kaikoro",2022
+https://boardgamegeek.com/boardgame/312372/pandoria-merchants,312372,12129,"Pandoria Merchants",2020
+https://boardgamegeek.com/boardgame/285789/polyhedral-park-planner,285789,12156,"Polyhedral Park Planner",2019
+https://boardgamegeek.com/boardgame/337117/rats-high-tea-at-sea,337117,12184,"RATS: High Tea at Sea",2021
+https://boardgamegeek.com/boardgame/367030/quests-over-coffee,367030,12216,"Quests Over Coffee",2022
+https://boardgamegeek.com/boardgame/247643/doodle-islands,247643,12311,"Doodle Islands",2018
+https://boardgamegeek.com/boardgame/292507/ramen-ink,292507,12434,"Ramen Ink",2020
+https://boardgamegeek.com/boardgame/264242/bloxx,264242,12526,"Bloxx!",2018
+https://boardgamegeek.com/boardgame/375195/roll-and-meow-the-cat-burglars,375195,12529,"Roll & Meow: The Cat Burglars",2023
+https://boardgamegeek.com/boardgame/310968/bite-and-write-the-treaty-of-rodentia,310968,12546,"Bite and Write: The Treaty of Rodentia",2020
+https://boardgamegeek.com/boardgame/136279/kreuzwort,136279,12619,"Kreuzwort",2013
+https://boardgamegeek.com/boardgame/329521/chiefdom,329521,12764,"Chiefdom",2021
+https://boardgamegeek.com/boardgame/280856/crossroll-hong-kong,280856,12780,"Crossroll Hong Kong",2019
+https://boardgamegeek.com/boardgame/363718/kyudo,363718,12854,"Kyudo",2022
+https://boardgamegeek.com/boardgame/335736/yokohama-roll-and-write,335736,12924,"Yokohama Roll & Write",2021
+https://boardgamegeek.com/boardgame/315219/black-it-out,315219,12939,"Black It Out",2020
+https://boardgamegeek.com/boardgame/222798/pencil-park,222798,13075,"Pencil Park",2017
+https://boardgamegeek.com/boardgame/367246/the-blob-that-ate-the-city,367246,13130,"The Blob that Ate the City",2022
+https://boardgamegeek.com/boardgame/375322/tiny-mini-golf,375322,13168,"Tiny Mini Golf",2023
+https://boardgamegeek.com/boardgame/283790/truck-off-the-food-truck-frenzy-roll-and-write,283790,13186,"Truck Off: The Food Truck Frenzy Roll And Write",2019
+https://boardgamegeek.com/boardgame/402205/sixto,402205,13284,"Sixto",2023
+https://boardgamegeek.com/boardgame/382217/colour-square,382217,13321,"Colour Square",2023
+https://boardgamegeek.com/boardgame/275188/cat-sudoku,275188,13366,"Cat Sudoku",2019
+https://boardgamegeek.com/boardgame/211810/sweets-stack,211810,13465,"Sweets Stack",2016
+https://boardgamegeek.com/boardgame/351651/retrograde,351651,13476,"Retrograde",2023
+https://boardgamegeek.com/boardgame/205790/doodle-china,205790,13500,"Doodle China",2016
+https://boardgamegeek.com/boardgame/263175/torpedo-dice,263175,13566,"Torpedo Dice",2021
+https://boardgamegeek.com/boardgame/357465/dice-cup,357465,13568,"Dice Cup",2022
+https://boardgamegeek.com/boardgame/313274/alhambra-roll-and-write,313274,13761,"Alhambra: Roll & Write",2020
+https://boardgamegeek.com/boardgame/251153/alpenzian,251153,13869,"Alpenzian",2018
+https://boardgamegeek.com/boardgame/133620/yay,133620,13917,"Yay!",2012
+https://boardgamegeek.com/boardgame/316760/assault-on-the-marmot-king,316760,13940,"Assault on the Marmot King",2020
+https://boardgamegeek.com/boardgame/357674/gimme-that,357674,13944,"Gimme That!",2022
+https://boardgamegeek.com/boardgame/367469/ghosts-love-candy-too-roll-and-fright,367469,14073,"Ghosts Love Candy Too Roll and Fright",2022
+https://boardgamegeek.com/boardgame/255697/penk,255697,14128,"Penk!",2018
+https://boardgamegeek.com/boardgame/381826/pick-a-pen-reefs,381826,14134,"Pick a Pen: Reefs",2023
+https://boardgamegeek.com/boardgame/336212/pletrix,336212,14259,"Pletrix",2021
+https://boardgamegeek.com/boardgame/367521/dice-colony,367521,14318,"Dice Colony",2022
+https://boardgamegeek.com/boardgame/45020/agricola-express,45020,14432,"Agricola Express",2009
+https://boardgamegeek.com/boardgame/223330/star-maps,223330,14448,"Star Maps",2017
+https://boardgamegeek.com/boardgame/396649/at-the-office,396649,14482,"At the Office",2023
+https://boardgamegeek.com/boardgame/357258/deole,357258,14564,"Déole",2022
+https://boardgamegeek.com/boardgame/42361/pocket-dungeon,42361,14719,"Pocket Dungeon",2009
+https://boardgamegeek.com/boardgame/350759/vault-a-solitaire-dice-game,350759,14720,"Vault: A Solitaire Dice Game",2021
+https://boardgamegeek.com/boardgame/404544/dangerous-space-core-set,404544,14772,"Dangerous Space: Core Set",2024
+https://boardgamegeek.com/boardgame/298705/animal-rescue,298705,14976,"Animal Rescue",2020
+https://boardgamegeek.com/boardgame/375209/space-alone,375209,15059,"Space Alone",2023
+https://boardgamegeek.com/boardgame/359961/pentaquest,359961,15127,"Pentaquest",2022
+https://boardgamegeek.com/boardgame/349767/aban,349767,15132,"Aban!",2022
+https://boardgamegeek.com/boardgame/2402/ghoulash,2402,15233,"Ghoulash",2001
+https://boardgamegeek.com/boardgame/398996/panda-royale,398996,15313,"Panda Royale",2024
+https://boardgamegeek.com/boardgame/310385/tanuki-matsuri,310385,15472,"Tanuki Matsuri",2020
+https://boardgamegeek.com/boardgame/329613/paper-app-dungeon,329613,15481,"Paper App Dungeon",2024
+https://boardgamegeek.com/boardgame/401217/cascadito,401217,15509,"Cascadito",2024
+https://boardgamegeek.com/boardgame/307172/kingdom-maps,307172,15686,"Kingdom Maps",2020
+https://boardgamegeek.com/boardgame/265293/space-worm,265293,15766,"Space Worm",2020
+https://boardgamegeek.com/boardgame/287198/ka-pai,287198,15774,"Ka Pai",2019
+https://boardgamegeek.com/boardgame/349161/captains-war,349161,15938,"Captains' War",2022
+https://boardgamegeek.com/boardgame/325507/roruraito-fu-hao-roll-write-daifugo,325507,16020,"ロールライト⚅富豪 (Roll Write Daifugō)",2020
+https://boardgamegeek.com/boardgame/385417/walking-in-burano-roll-and-write,385417,16030,"Walking in Burano: Roll & Write",2023
+https://boardgamegeek.com/boardgame/366900/stampfarm,366900,16138,"Stampfarm",2023
+https://boardgamegeek.com/boardgame/307532/coast-to-coast,307532,16168,"Coast to Coast",2020
+https://boardgamegeek.com/boardgame/279477/madrino,279477,16181,"Madrino",2019
+https://boardgamegeek.com/boardgame/326943/paleontologists-snowman-edition,326943,16262,"Paleontologists: Snowman Edition",2020
+https://boardgamegeek.com/boardgame/308720/super-dice-heroes,308720,16294,"Super Dice Heroes",2020
+https://boardgamegeek.com/boardgame/381825/pick-a-pen-crypts,381825,16371,"Pick a Pen: Crypts",2023
+https://boardgamegeek.com/boardgame/227468/ancient-artifacts,227468,16496,"Ancient Artifacts",2017
+https://boardgamegeek.com/boardgame/388394/the-choice,388394,16580,"The Choice",2023
+https://boardgamegeek.com/boardgame/296353/color-it,296353,16635,"Color It!",2020
+https://boardgamegeek.com/boardgame/162974/chroma-cubes,162974,16637,"Chroma Cubes",2014
+https://boardgamegeek.com/boardgame/351903/giftbringer,351903,16650,"Giftbringer",2021
+https://boardgamegeek.com/boardgame/313750/personal-space,313750,16724,"Personal Space",2020
+https://boardgamegeek.com/boardgame/89972/15,89972,16912,"15",2011
+https://boardgamegeek.com/boardgame/328484/abszolut-megvadult-betuk,328484,17003,"Abszolút megvadult betűk",2020
+https://boardgamegeek.com/boardgame/286310/blokus-dice-game,286310,17050,"Blokus Dice Game",2019
+https://boardgamegeek.com/boardgame/344614/floor-plan-the-winchester-mystery-house,344614,17200,"Floor Plan: The Winchester Mystery House",2022
+https://boardgamegeek.com/boardgame/331416/lots-filled-in,331416,17203,"LOTS: Filled In",2022
+https://boardgamegeek.com/boardgame/373793/mary-shelleys-dream,373793,17330,"Mary Shelley's Dream",2022
+https://boardgamegeek.com/boardgame/307250/thru-the-appalachian,307250,17391,"Thru the Appalachian",2020
+https://boardgamegeek.com/boardgame/369803/the-belgian-beers-race-dice,369803,17395,"The Belgian Beers Race Dice",2023
+https://boardgamegeek.com/boardgame/355636/sailorman-dice,355636,17414,"Sailorman Dice",2022
+https://boardgamegeek.com/boardgame/213500/1672-the-lost-crew,213500,17505,"1672: The Lost Crew",2016
+https://boardgamegeek.com/boardgame/167463/kuhlorado,167463,17552,"Kuhlorado",2014
+https://boardgamegeek.com/boardgame/353880/moly-atrapa,353880,17557,"Moly Atrapa",2022
+https://boardgamegeek.com/boardgame/290734/eiswurfeln,290734,17574,"Eiswürfeln",2019
+https://boardgamegeek.com/boardgame/354242/yuncos-el-lado-oscuro-de-la-luz,354242,17618,"Yuncos: El lado oscuro de la luz",2022
+https://boardgamegeek.com/boardgame/275857/cat-tower,275857,17696,"Cat Tower",2019
+https://boardgamegeek.com/boardgame/3181/farkle,3181,17703,"Farkle",1996
+https://boardgamegeek.com/boardgame/187769/rolling-world,187769,17710,"Rolling World",2015
+https://boardgamegeek.com/boardgame/344685/go-goa,344685,17754,"Go Goa",2021
+https://boardgamegeek.com/boardgame/299251/skyline-express-roll-and-write,299251,17827,"Skyline Express Roll & Write",2020
+https://boardgamegeek.com/boardgame/356554/flip-freighters,356554,17833,"Flip Freighters",2022
+https://boardgamegeek.com/boardgame/386490/uncharted-stars,386490,17909,"Uncharted Stars",2023
+https://boardgamegeek.com/boardgame/272443/night-class,272443,18165,"Night Class",2019
+https://boardgamegeek.com/boardgame/330593/go-for-gold,330593,18389,"Go for Gold",2021
+https://boardgamegeek.com/boardgame/316044/1472-the-lost-samurai,316044,18442,"1472: The Lost Samurai",2020
+https://boardgamegeek.com/boardgame/355247/echt-spitze,355247,18592,"Echt Spitze",2022
+https://boardgamegeek.com/boardgame/291232/majolica-painting,291232,18605,"Majolica Painting",2019
+https://boardgamegeek.com/boardgame/309352/shadow-of-the-obelisk,309352,18622,"Shadow of the Obelisk",2020
+https://boardgamegeek.com/boardgame/328251/binomial,328251,18640,"Binomial",2020
+https://boardgamegeek.com/boardgame/136177/super-race,136177,18776,"Super Race",2009
+https://boardgamegeek.com/boardgame/63779/shake-n-take,63779,18779,"Shake 'n Take",2011
+https://boardgamegeek.com/boardgame/347107/18-holes-course-architect,347107,18781,"18 Holes: Course Architect",2022
+https://boardgamegeek.com/boardgame/99227/rallytaire,99227,19030,"Rallytaire",2011
+https://boardgamegeek.com/boardgame/330555/5-minuten-puzzle,330555,19077,"5 Minuten Puzzle",2021
+https://boardgamegeek.com/boardgame/343313/namaste,343313,19175,"Namaste",2021
+https://boardgamegeek.com/boardgame/305841/tiny-farms,305841,19209,"Tiny Farms",2020
+https://boardgamegeek.com/boardgame/306029/dark-force-incursion,306029,19463,"Dark Force Incursion",2020
+https://boardgamegeek.com/boardgame/346459/wortfabrik,346459,19475,"Wortfabrik",2021
+https://boardgamegeek.com/boardgame/128419/dice-of-arkham,128419,19798,"Dice of Arkham",2012
+https://boardgamegeek.com/boardgame/167468/kuh-vadis,167468,20236,"Kuh Vadis",2014
+https://boardgamegeek.com/boardgame/355035/zinga,355035,20290,"Zinga",2022
+https://boardgamegeek.com/boardgame/329579/rock-the-bock,329579,20397,"Rock the Bock",2021
+https://boardgamegeek.com/boardgame/359127/dragonquest-a-fantasy-dice-game,359127,20948,"Dragonquest: A Fantasy Dice Game",2022
+https://boardgamegeek.com/boardgame/223329/blood-royals,223329,21048,"Blood Royals",2017
+https://boardgamegeek.com/boardgame/341936/dice-trip-deutschland,341936,21083,"Dice Trip: Deutschland",2021
+https://boardgamegeek.com/boardgame/2581/kismet,2581,21321,"Kismet",1963
+https://boardgamegeek.com/boardgame/349409/snack-time,349409,21503,"Snack Time",2022
+https://boardgamegeek.com/boardgame/117987/einfach-genial-das-wurfelspiel,117987,22030,"Einfach Genial: Das Würfelspiel",2012
+https://boardgamegeek.com/boardgame/19475/spingo,19475,22163,"Spingo",1980
+https://boardgamegeek.com/boardgame/296250/unlocking-insanity-dice-vermiis-mysteriis,296250,22197,"Unlocking Insanity: Dice Vermiis Mysteriis",2020
+https://boardgamegeek.com/boardgame/377947/lumen-the-lost-world,377947,22223,"Lumen: The Lost World",2023
+https://boardgamegeek.com/boardgame/368126/arabella,368126,22391,"Arabella",2023
+https://boardgamegeek.com/boardgame/153168/karten-kniffel,153168,22547,"Karten Kniffel",2014
+https://boardgamegeek.com/boardgame/221263/space-invaders-dice,221263,22661,"Space Invaders Dice!",2017
+https://boardgamegeek.com/boardgame/7465/chekov,7465,22870,"Chekov",2003
+https://boardgamegeek.com/boardgame/286781/franky-rockn-vegas,286781,23129,"Franky: Rock'n Vegas",2019
+https://boardgamegeek.com/boardgame/4119/challenge-yahtzee,4119,23338,"Challenge Yahtzee",1974
+https://boardgamegeek.com/boardgame/286547/wizard-wurfelspiel,286547,23862,"Wizard Würfelspiel",2019
+https://boardgamegeek.com/boardgame/368733/roll-into-town,368733,24234,"Roll Into Town",2022
+https://boardgamegeek.com/boardgame/282080/posing-pandas,282080,24314,"Posing Pandas",2018
+https://boardgamegeek.com/boardgame/342762/a-walk-in-the-park,342762,24354,"A Walk in the Park",2022
+https://boardgamegeek.com/boardgame/286309/uno-dice-game,286309,24613,"UNO Dice Game",2019
+https://boardgamegeek.com/boardgame/375553/diceathlon,375553,25253,"Diceathlon",2022
+https://boardgamegeek.com/boardgame/271349/kingsburg-the-dice-game,271349,25704,"Kingsburg: The Dice Game",2019
+https://boardgamegeek.com/boardgame/2243/yahtzee,2243,25806,"Yahtzee",1956
+https://boardgamegeek.com/boardgame/353799/rolling-pins,353799,25854,"Rolling Pins",2021
+https://boardgamegeek.com/boardgame/4165/spare-time-bowling,4165,26050,"Spare Time Bowling",1940
+https://boardgamegeek.com/boardgame/212027/balloon-pop,212027,26129,"Balloon Pop!",2017
+https://boardgamegeek.com/boardgame/4378/cootie,4378,26290,"Cootie",1927
+https://boardgamegeek.com/boardgameexpansion/47389/roll-through-the-ages-the-late-bronze-age,47389,,"Roll Through the Ages: The Late Bronze Age",2009
+https://boardgamegeek.com/boardgameexpansion/167305/qwixx-mixx,167305,,"Qwixx Mixx",2014
+https://boardgamegeek.com/boardgameexpansion/287988/ganz-schon-clever-challenge-i,287988,,"Ganz Schön Clever: Challenge I",2019
+https://boardgamegeek.com/boardgameexpansion/184530/qwixx-big-points,184530,,"Qwixx: Big Points",2015
+https://boardgamegeek.com/boardgameexpansion/288002/doppelt-so-clever-challenge-i,288002,,"Doppelt so Clever: Challenge I",2019
+https://boardgamegeek.com/boardgameexpansion/38845/les-colons-de-catane-le-jeu-de-des,38845,,"Les Colons de Catane: Le jeu de dés",2007
+https://boardgamegeek.com/boardgame/167828/roll-through-the-ages-the-iron-age-with-mediterran,167828,,"Roll Through the Ages: The Iron Age with Mediterranean Expansion",2014
+https://boardgamegeek.com/boardgameexpansion/298686/fleet-the-dice-game-dicey-waters-expansion,298686,,"Fleet: The Dice Game – Dicey Waters Expansion",2020
+https://boardgamegeek.com/boardgameexpansion/270715/qwixx-connected,270715,,"Qwixx: Connected",2019
+https://boardgamegeek.com/boardgameexpansion/320730/railroad-ink-eldritch-expansion-pack,320730,,"Railroad Ink: Eldritch Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/320734/railroad-ink-engineer-expansion-pack,320734,,"Railroad Ink: Engineer Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/319080/cartographers-new-discoveries,319080,,"Cartographers: New Discoveries",2020
+https://boardgamegeek.com/boardgameexpansion/320731/railroad-ink-arcade-expansion-pack,320731,,"Railroad Ink: Arcade Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/320736/railroad-ink-sky-expansion-pack,320736,,"Railroad Ink: Sky Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/300075/on-tour-european-expansion,300075,,"On Tour: European Expansion",2020
+https://boardgamegeek.com/boardgameexpansion/320737/railroad-ink-electricity-expansion-pack,320737,,"Railroad Ink: Electricity Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/320732/railroad-ink-underground-expansion-pack,320732,,"Railroad Ink: Underground Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/320735/railroad-ink-futuristic-expansion-pack,320735,,"Railroad Ink: Futuristic Expansion Pack",2021
+https://boardgamegeek.com/boardgameexpansion/320877/qwixx-bonus,320877,,"Qwixx: Bonus",2020
+https://boardgamegeek.com/boardgameexpansion/285896/dizzle-levels-5-8,285896,,"Dizzle: Levels 5-8",2019
+https://boardgamegeek.com/boardgameexpansion/255963/roll-to-the-top-special-challenges-pack,255963,,"Roll to the Top!: Special Challenges Pack",2018
+https://boardgamegeek.com/boardgameexpansion/150927/roll-through-the-ages-the-iron-age-the-mediterrane,150927,,"Roll Through the Ages: The Iron Age – The Mediterranean Expansion",2014
+https://boardgamegeek.com/boardgame/47410/catan-dice-game-deluxe-edition,47410,,"Catan Dice Game Deluxe Edition",2009
+https://boardgamegeek.com/boardgameexpansion/266825/fleet-the-dice-game-deluxe-extras,266825,,"Fleet: The Dice Game – Deluxe Extras",2018
+https://boardgamegeek.com/boardgameexpansion/317802/rome-and-roll-character-expansion,317802,,"Rome & Roll: Character Expansion",2020
+https://boardgamegeek.com/boardgameexpansion/330681/trek-12-plus-1-a-travel-diary-through-the-himalaya,330681,,"Trek 12+1: A travel diary through the Himalayas",2021
+https://boardgamegeek.com/boardgameexpansion/39624/catan-dice-game-xxl-variant,39624,,"Catan Dice Game XXL Variant",2008
+https://boardgamegeek.com/boardgame/365626/qwixx-10-jahre-limited-edition,365626,,"Qwixx: 10 Jahre Limited-Edition",2022
+https://boardgamegeek.com/boardgameexpansion/330603/wurfelland-europe,330603,,"Würfelland: Europe",2021
+https://boardgamegeek.com/boardgameexpansion/370933/paper-dungeons-side-quest-expansion,370933,,"Paper Dungeons: Side Quest Expansion",2023
+https://boardgamegeek.com/boardgame/367513/railroad-ink-challenge-collectors-edition,367513,,"Railroad Ink Challenge: Collector's Edition",2021
+https://boardgamegeek.com/boardgameexpansion/325161/fleet-the-dice-game-captain-and-trophy-expansion,325161,,"Fleet: The Dice Game – Captain & Trophy Expansion",2018
+https://boardgamegeek.com/boardgameexpansion/329620/trek-12-xmas,329620,,"Trek 12: Xmas",2020
+https://boardgamegeek.com/boardgameexpansion/263964/railroad-ink-promo-board-2-red-train,263964,,"Railroad Ink: Promo Board #2 – Red Train",2018
+https://boardgamegeek.com/boardgameexpansion/263963/railroad-ink-promo-board-1-blue-train,263963,,"Railroad Ink: Promo Board #1 – Blue Train",2018
+https://boardgamegeek.com/boardgameexpansion/323881/trek-12-at-home-semaine-1,323881,,"Trek 12: At Home – Semaine 1",2020
+https://boardgamegeek.com/boardgameexpansion/288816/deadly-doodles-2,288816,,"Deadly Doodles 2",2020
+https://boardgamegeek.com/boardgameexpansion/357311/railroad-ink-additional-cards-pack,357311,,"Railroad Ink: Additional Cards Pack",2021
+https://boardgamegeek.com/boardgameexpansion/331509/trek-12-philitrek,331509,,"Trek 12: Philitrek",2021
+https://boardgamegeek.com/boardgameexpansion/340807/trek-12-zen-trek,340807,,"Trek 12: Zen Trek",2021
+https://boardgamegeek.com/boardgame/309632/abstract,309632,,"Abstract",2020
+https://boardgamegeek.com/boardgame/87927/rock-n-roll,87927,,"Rock 'n Roll",2010
+https://boardgamegeek.com/boardgame/369895/roco-ranger,369895,,"Roco Ranger",2022
+https://boardgamegeek.com/boardgame/373636/takenokolor,373636,,"Takenokolor",2024
+https://boardgamegeek.com/boardgame/322052/dice-trip-switzerland,322052,,"Dice Trip: Switzerland",2020
+https://boardgamegeek.com/boardgame/363771/lab-notes,363771,,"Lab Notes",2023
+https://boardgamegeek.com/boardgame/368282/on-to-moscow-solitaire,368282,,"On to Moscow Solitaire",2022
+https://boardgamegeek.com/boardgame/372883/roll-and-rails,372883,,"Roll and Rails",2022
+https://boardgamegeek.com/boardgameexpansion/402803/vault-a-den-of-thieves,402803,,"Vault: A Den of Thieves",2023
+https://boardgamegeek.com/boardgame/272853/federation-stellar-force,272853,,"Federation Stellar Force",2019
+https://boardgamegeek.com/boardgame/316048/fortress-of-terror,316048,,"Fortress of Terror",2022
+https://boardgamegeek.com/boardgame/379806/railroad-ink-challenge-ultimate-collectors-edition,379806,,"Railroad Ink Challenge: Ultimate Collector's Edition",2023
+https://boardgamegeek.com/boardgameexpansion/308359/roll-to-the-top-taj-mahal-and-sydney-opera-house,308359,,"Roll to the Top!: Taj Mahal and Sydney Opera House",2020
+https://boardgamegeek.com/boardgameexpansion/322674/rome-and-roll-gladiators,322674,,"Rome & Roll: Gladiators",2021
+https://boardgamegeek.com/boardgameexpansion/331506/trek-12-de-la-saint-valentin,331506,,"Trek 12: de la Saint Valentin",2021
+https://boardgamegeek.com/boardgame/330196/ada-lovelace-legacy-of-the-analytical-engine,330196,,"Ada Lovelace: Legacy of the Analytical Engine",2020
+https://boardgamegeek.com/boardgame/43144/the-great-races,43144,,"The Great Races",1974
+https://boardgamegeek.com/boardgame/377718/noch-mal-deluxe,377718,,"Noch mal! Deluxe",2023
+https://boardgamegeek.com/boardgame/286312/skip-bo-dice-game,286312,,"Skip-Bo Dice Game",2019
+https://boardgamegeek.com/boardgame/366999/aviones-y-dragones,366999,,"Aviones y Dragones",2022
+https://boardgamegeek.com/boardgame/354975/between-light-and-shadow,354975,,"Between Light & Shadow",2023
+https://boardgamegeek.com/boardgame/354610/hermagor-market,354610,,"Hermagor Market",2022
+https://boardgamegeek.com/boardgame/344696/roll-n-gol,344696,,"Roll 'n' GOL",2021
+https://boardgamegeek.com/boardgame/2813/scrabble-duplicate-crossword-game,2813,,"Scrabble Duplicate Crossword Game",1975
+https://boardgamegeek.com/boardgame/323321/tetroll,323321,,"Tetroll",2020
+https://boardgamegeek.com/boardgame/347303/uradalom,347303,,"Uradalom",2021
+https://boardgamegeek.com/boardgame/356763/wine-management,356763,,"Wine Management",2022
+https://boardgamegeek.com/boardgame/11829/word-nerd,11829,,"Word Nerd",1979
+https://boardgamegeek.com/boardgame/325570/alpakaland,325570,,"ALPAKALAND",2020
+https://boardgamegeek.com/boardgame/364653/b17-twenty-five-missions,364653,,"B17 Twenty Five Missions",2022
+https://boardgamegeek.com/boardgame/368341/bako-dig-and-write,368341,,"Bako: Dig and Write",2022
+https://boardgamegeek.com/boardgameexpansion/288200/ganz-schon-rolf-fan-expansion-for-ganz-schon-cleve,288200,,"Ganz Schön Rolf (fan expansion for Ganz Schön Clever)",2018
+https://boardgamegeek.com/boardgame/228677/holmes-and-watson-1890-1914-adventures-in-the-lond,228677,,"Holmes & Watson 1890-1914: Adventures in the London Fog",2017
+https://boardgamegeek.com/boardgame/286308/lowdown-dice-game,286308,,"Lowdown Dice Game",2019
+https://boardgamegeek.com/boardgame/378426/ripleys-nightmare,378426,,"Ripley's Nightmare",2023
+https://boardgamegeek.com/boardgame/289801/dice-and-ink-a-roll-and-write-anthology,289801,,"Dice & Ink: A Roll & Write Anthology",2020
+https://boardgamegeek.com/boardgame/298431/egyptia,298431,,"Egyptia",2019
+https://boardgamegeek.com/boardgame/310370/inkalam,310370,,"Inkalam",2020
+https://boardgamegeek.com/boardgame/271332/paper-pinball-wolf-hackers,271332,,"Paper Pinball: Wolf Hackers",2018
+https://boardgamegeek.com/boardgame/328767/plazing-roll-and-write,328767,,"Plażing: roll&write",2019
+https://boardgamegeek.com/boardgame/336962/random-fun-generator,336962,,"Random Fun Generator",2020
+https://boardgamegeek.com/boardgame/374630/zmei-i-lestnicy-brodilka-snakes-and-ladders-advent,374630,,"Змеи и лестницы: Бродилка (Snakes and Ladders: Adventure)",2021
+https://boardgamegeek.com/boardgame/348809/dicetris,348809,,"Dicetris",2021
+https://boardgamegeek.com/boardgame/307685/nine-lives-rogue-and-write,307685,,"Nine Lives: Rogue-and-Write",2020
+https://boardgamegeek.com/boardgame/267988/paper-pinball-laser-sisters,267988,,"Paper Pinball: Laser Sisters",2018
+https://boardgamegeek.com/boardgame/307808/paper-roll-and-write,307808,,"PAPER ROLL & Write",2020
+https://boardgamegeek.com/boardgame/375563/snowpeople,375563,,"Snowpeople",2022
+https://boardgamegeek.com/boardgame/316999/12-parsecs,316999,,"12 Parsecs",2020
+https://boardgamegeek.com/boardgameexpansion/297659/hexroller-hexpansion-1,297659,,"HexRoller: Hexpansion 1",2020
+https://boardgamegeek.com/boardgame/331819/rad-zone,331819,,"Rad Zone",2021
+https://boardgamegeek.com/boardgame/307365/rolling-seas,307365,,"Rolling Seas",2019
+https://boardgamegeek.com/boardgame/317128/xmas-sweater,317128,,"Xmas Sweater",2020
+https://boardgamegeek.com/boardgame/369119/alchemists-apprentice,369119,,"Alchemist's Apprentice",2022
+https://boardgamegeek.com/boardgame/307382/bake-and-sale,307382,,"Bake & Sale",2020
+https://boardgamegeek.com/boardgame/262197/dragonvault,262197,,"Dragonvault",2018
+https://boardgamegeek.com/boardgame/296157/si-die-ban-pepasai-xi-four-and-a-half-tatami-mat-g,296157,,"四畳半ペーパー賽系 (Four-and-a-Half Tatami Mat Galaxy)",2019
+https://boardgamegeek.com/boardgame/16782/in-pursuit-of-par-par-72-edition,16782,,""In Pursuit of Par" Par 72 Edition",1986
+https://boardgamegeek.com/boardgame/308558/pointree,308558,,"POINTREE",2020
+https://boardgamegeek.com/boardgameexpansion/255965/roll-to-the-top-roll-through-africa,255965,,"Roll to the Top!: Roll Through Africa",2018
+https://boardgamegeek.com/boardgameexpansion/325908/trek-12-base-camp-1,325908,,"Trek 12: Base Camp 1",2020
+https://boardgamegeek.com/boardgame/412952/tufteln,412952,,"Tüfteln",2024
+https://boardgamegeek.com/boardgame/337466/birdsong,337466,,"Birdsong",2020
+https://boardgamegeek.com/boardgame/376302/coral-sea-solitaire,376302,,"Coral Sea Solitaire",2022
+https://boardgamegeek.com/boardgame/407180/ganz-schon-clever-deluxe,407180,,"Ganz schön clever: Deluxe",2023
+https://boardgamegeek.com/boardgame/353414/ofrendados-the-road-to-mictlan,353414,,"Ofrendados, the road to Mictlán",2021
+https://boardgamegeek.com/boardgame/372860/prefect,372860,,"Prefect",2022
+https://boardgamegeek.com/boardgame/341939/dice-trip-belgium,341939,,"Dice Trip: Belgium",2021
+https://boardgamegeek.com/boardgame/148503/the-harbinger-project,148503,,"The Harbinger Project",2013
+https://boardgamegeek.com/boardgame/332365/one-page-wwii-tank-war-ardennes,332365,,"One Page WWII: Tank War Ardennes",2021
+https://boardgamegeek.com/boardgameexpansion/264160/penny-papers-adventures-the-temple-of-apikhabou-sa,264160,,"Penny Papers Adventures: The Temple of Apikhabou – Santa's Secret Lair",2018
+https://boardgamegeek.com/boardgame/307905/quarantine-haircuts,307905,,"Quarantine Haircuts",2020
+https://boardgamegeek.com/boardgame/326661/sack-stackers,326661,,"Sack Stackers",2020
+https://boardgamegeek.com/boardgame/347605/jurassico,347605,,"Jurassico",2017
+https://boardgamegeek.com/boardgameexpansion/303123/ka-pai-orokohanga,303123,,"Ka Pai: Orokohanga",2020
+https://boardgamegeek.com/boardgame/281190/merkez,281190,,"Merkez",2019
+https://boardgamegeek.com/boardgame/337609/monster-clashhh,337609,,"Monster Clashhh!",2021
+https://boardgamegeek.com/boardgame/286046/racing-stars,286046,,"Racing Stars",2019
+https://boardgamegeek.com/boardgameexpansion/318941/roar-and-write-deep-dive,318941,,"Roar and Write!: Deep Dive",2021
+https://boardgamegeek.com/boardgame/341856/train-in-vain,341856,,"Train in Vain",2021
+https://boardgamegeek.com/boardgame/358789/4-in-1-dice-games,358789,,"4-in-1 Dice Games",2021
+https://boardgamegeek.com/boardgame/371980/asteroid-dice,371980,,"Asteroid Dice",2023
+https://boardgamegeek.com/boardgameexpansion/298441/ka-pai-toku-wakapapa,298441,,"Ka Pai: Toku Wakapapa",2020
+https://boardgamegeek.com/boardgame/355521/mining-colony-duel,355521,,"Mining Colony Duel",2022
+https://boardgamegeek.com/boardgame/325571/mixture,325571,,"MIXTURE",2020
+https://boardgamegeek.com/boardgame/309040/thats-my-throne,309040,,"That's My Throne",2020
+https://boardgamegeek.com/boardgame/255720/x-ganz-schon-knifflig,255720,,"X: Ganz schön knifflig!",2018
+https://boardgamegeek.com/boardgame/361921/airflip,361921,,"AIRFLIP",2022
+https://boardgamegeek.com/boardgame/306673/draw-bot,306673,,"Draw Bot",2020
+https://boardgamegeek.com/boardgame/375441/formula1cm,375441,,"Formula1cm",2022
+https://boardgamegeek.com/boardgame/323963/into-the-outside-prelude,323963,,"Into the Outside: Prelude",2021
+https://boardgamegeek.com/boardgame/240425/raise-the-shields,240425,,"Raise the Shields",2017
+https://boardgamegeek.com/boardgame/229848/snakey-dice,229848,,"Snakey Dice",2017
+https://boardgamegeek.com/boardgame/228460/bentoblocks,228460,,"BentoBlocks",2017
+https://boardgamegeek.com/boardgame/363683/isla,363683,,"Isla",
+https://boardgamegeek.com/boardgame/335733/ramuramupatei-lum-lum-party,335733,,"ラムラムパーティー (Lum Lum Party)",2021
+https://boardgamegeek.com/boardgame/406907/16-lueurs-dhiver,406907,,"16 lueurs d'hiver",2023
+https://boardgamegeek.com/boardgame/187869/600,187869,,"600",1990
+https://boardgamegeek.com/boardgameexpansion/287782/deadly-doodles-trick-promo-card,287782,,"Deadly Doodles: Trick Promo Card",2019
+https://boardgamegeek.com/boardgame/331426/dice-in-the-darkness,331426,,"Dice in the Darkness",2021
+https://boardgamegeek.com/boardgame/378150/mision-antartida,378150,,"Misión Antártida",2023
+https://boardgamegeek.com/boardgame/323498/panzer-dice-eastern-front-roll-and-write-version,323498,,"Panzer Dice: Eastern Front – Roll & Write Version",2020
+https://boardgamegeek.com/boardgame/308855/tetreats,308855,,"Tetreats",2020
+https://boardgamegeek.com/boardgame/358605/b17-the-fight-for-air-supremacy,358605,,"B17: The Fight for Air Supremacy",2022
+https://boardgamegeek.com/boardgame/398945/connnect,398945,,"Connnect",2024
+https://boardgamegeek.com/boardgame/406918/dangerous-space-year-long-adventure-set,406918,,"Dangerous Space: Year-Long Adventure Set",2024
+https://boardgamegeek.com/boardgame/249305/dice-wide-shut,249305,,"DICE WIDE SHUT",2018
+https://boardgamegeek.com/boardgameexpansion/316086/dungeon-academy-the-lost-forest,316086,,"Dungeon Academy: The Lost Forest",2020
+https://boardgamegeek.com/boardgame/325550/elektrico,325550,,"ELEKTRICO",2020
+https://boardgamegeek.com/boardgame/366114/fantasy-food-truck,366114,,"Fantasy Food Truck",2022
+https://boardgamegeek.com/boardgame/378329/jardin-japones,378329,,"Jardín Japonés",2023
+https://boardgamegeek.com/boardgame/364444/microcrime,364444,,"microCrime",2022
+https://boardgamegeek.com/boardgame/21451/mini-double-dice,21451,,"Mini Double Dice",2000
+https://boardgamegeek.com/boardgame/306867/pandemain-im-going-to-stay-in-nordlingen,306867,,"Pandemain: I'm going to stay in Nördlingen",2020
+https://boardgamegeek.com/boardgame/271334/paper-pinball-sherwood-2146,271334,,"Paper Pinball: Sherwood 2146",2018
+https://boardgamegeek.com/boardgame/292712/scribbletown,292712,,"Scribbletown",2021
+https://boardgamegeek.com/boardgameexpansion/325385/trek-12-base-camp-2,325385,,"Trek 12: Base Camp 2",2020
+https://boardgamegeek.com/boardgame/338579/assault-on-the-colossus,338579,,"Assault on the Colossus",2021
+https://boardgamegeek.com/boardgame/315531/dock,315531,,"Dock",2020
+https://boardgamegeek.com/boardgame/343365/ludus,343365,,"Ludus",2021
+https://boardgamegeek.com/boardgame/388397/mcbaron-bravery-in-the-sky,388397,,"McBaron Bravery in the Sky",2023
+https://boardgamegeek.com/boardgame/411543/my-shelfie-the-dice-game,411543,,"My Shelfie: The Dice Game",2024
+https://boardgamegeek.com/boardgame/344073/no-problema,344073,,"Nº Problema",2021
+https://boardgamegeek.com/boardgame/359658/party-of-4-fortunes-found-in-dungeons-deep,359658,,"Party of 4: Fortunes Found in Dungeons Deep",2022
+https://boardgamegeek.com/boardgame/393113/pioneers-on-mars,393113,,"Pioneers on Mars",2023
+https://boardgamegeek.com/boardgame/396914/stellar-drift-pull-and-write,396914,,"Stellar Drift: Pull & Write",2024
+https://boardgamegeek.com/boardgame/377117/upwarts,377117,,"Upwärts!",2023
+https://boardgamegeek.com/boardgame/278600/kudamonogatari-fruitale,278600,,"くだものがたり (Fruitale)",2019
+https://boardgamegeek.com/boardgame/232914/25-to-dice,232914,,"25 to Dice",2017
+https://boardgamegeek.com/boardgame/345607/chronicles-of-stampadia,345607,,"Chronicles of Stampadia",2021
+https://boardgamegeek.com/boardgame/414275/colour-lines,414275,,"Colour Lines",2024
+https://boardgamegeek.com/boardgame/304332/dice-in-space,304332,,"Dice in Space",2019
+https://boardgamegeek.com/boardgame/336320/dice-on-mars,336320,,"Dice on Mars",2021
+https://boardgamegeek.com/boardgame/378744/dungeon-maker-deluxe,378744,,"Dungeon Maker: Deluxe!",2023
+https://boardgamegeek.com/boardgame/262195/goblins-guns-and-grog,262195,,"Goblins, Guns and Grog!",2018
+https://boardgamegeek.com/boardgameexpansion/284749/imperial-settlers-roll-and-write-uk-games-expo-pro,284749,,"Imperial Settlers: Roll & Write – UK Games Expo Promosheet",2019
+https://boardgamegeek.com/boardgame/336315/jurassic-hunt,336315,,"Jurassic Hunt",2020
+https://boardgamegeek.com/boardgameexpansion/282631/lanterns-dice-lights-in-the-sky-early-release-prom,282631,,"Lanterns Dice: Lights in the Sky – Early Release Promo Tiles",2019
+https://boardgamegeek.com/boardgameexpansion/294312/lanterns-dice-the-legendary-lakes,294312,,"Lanterns Dice: The Legendary Lakes",2019
+https://boardgamegeek.com/boardgame/401623/letter-snake,401623,,"Letter Snake",2023
+https://boardgamegeek.com/boardgame/340884/lingolandia,340884,,"Lingolandia",2021
+https://boardgamegeek.com/boardgame/271358/lockpicks,271358,,"Lockpicks",2018
+https://boardgamegeek.com/boardgame/394130/the-lovecrafts-tales,394130,,"The Lovecraft's Tales",2023
+https://boardgamegeek.com/boardgame/387079/luddite,387079,,"Luddite",2023
+https://boardgamegeek.com/boardgame/325573/mage-forge,325573,,"Mage Forge",2020
+https://boardgamegeek.com/boardgame/273408/mosaic,273408,,"Mosaic",2017
+https://boardgamegeek.com/boardgame/383142/one-page-expedition,383142,,"One Page Expedition",2023
+https://boardgamegeek.com/boardgame/402395/overcrowd,402395,,"Overcrowd",2023
+https://boardgamegeek.com/boardgameexpansion/306461/polyhedral-park-planner-convention-season,306461,,"Polyhedral Park Planner: Convention Season",2020
+https://boardgamegeek.com/boardgame/367640/potion-pot-trail,367640,,"Potion Pot Trail",2022
+https://boardgamegeek.com/boardgame/387682/roll-builder,387682,,"Roll Builder",2023
+https://boardgamegeek.com/boardgame/310791/roll-for-lasers,310791,,"Roll for Lasers",2020
+https://boardgamegeek.com/boardgameexpansion/351530/roll-to-the-top-duel,351530,,"Roll to the Top!: Duel",2021
+https://boardgamegeek.com/boardgame/338783/streams-cross,338783,,"Streams Cross",2011
+https://boardgamegeek.com/boardgame/377394/worte-querbeet-lass-worte-wachsen,377394,,"Worte Querbeet: Lass Worte Wachsen!",2023
+https://boardgamegeek.com/boardgame/281036/zero-kelvin-a-freezing-dice-game,281036,,"Zero Kelvin: A Freezing Dice Game",2019
+https://boardgamegeek.com/boardgame/348151/18write,348151,,"18Write",2021
+https://boardgamegeek.com/boardgame/296165/architects-of-giza,296165,,"Architects of Giza",2020
+https://boardgamegeek.com/boardgameexpansion/293591/cat-cafe-promo-essen-spiel2019,293591,,"Cat Café: Promo Essen Spiel'2019",2019
+https://boardgamegeek.com/boardgame/320019/catchup-and-mousetard-battle-of-the-sandwiches,320019,,"Catchup & Mousetard: Battle of the Sandwiches!",2020
+https://boardgamegeek.com/boardgame/255295/cathedraw-revolt,255295,,"CatheDraw: Revolt",2018
+https://boardgamegeek.com/boardgameexpansion/338173/coast-to-coast-travelers,338173,,"Coast to Coast: Travelers",2021
+https://boardgamegeek.com/boardgame/380370/cuantos-tacos,380370,,"¿Cuántos Tacos?",
+https://boardgamegeek.com/boardgame/289585/defender-of-the-order,289585,,"Defender of the Order",2019
+https://boardgamegeek.com/boardgame/341938/dice-trip-france,341938,,"Dice Trip: France",2021
+https://boardgamegeek.com/boardgameexpansion/316254/dungeon-academy-the-desert-of-illusions,316254,,"Dungeon Academy: The Desert of Illusions",2020
+https://boardgamegeek.com/boardgameexpansion/329300/floor-plan-kira-and-ryan-client-promos,329300,,"Floor Plan: Kira & Ryan Client Promos",2021
+https://boardgamegeek.com/boardgameexpansion/286826/imperial-settlers-roll-and-write-berlincon-2019-pr,286826,,"Imperial Settlers: Roll & Write – BerlinCon 2019 Promosheet",2019
+https://boardgamegeek.com/boardgame/346054/monster-olympics,346054,,"Monster Olympics",2021
+https://boardgamegeek.com/boardgame/283809/paper-pinball-championship-boogerball,283809,,"Paper Pinball: Championship Boogerball",2019
+https://boardgamegeek.com/boardgameexpansion/370870/queen-of-12-kreuzzuge,370870,,"Queen of 12: Kreuzzüge",2023
+https://boardgamegeek.com/boardgame/336313/roll-pirates,336313,,"Roll Pirates",2020
+https://boardgamegeek.com/boardgame/392479/rome-and-conquer,392479,,"Rome & Conquer",2023
+https://boardgamegeek.com/boardgame/336321/time-machine,336321,,"Time Machine",2021
+https://boardgamegeek.com/boardgame/414852/trolliusn-roll,414852,,"Trollius'n  Roll",2024
+https://boardgamegeek.com/boardgame/35564/6-steps,35564,,"6 Steps",1965
+https://boardgamegeek.com/boardgame/176676/baaattle-sheep,176676,,"Baaattle Sheep",2015
+https://boardgamegeek.com/boardgame/209177/bavarian-holiday,209177,,"Bavarian Holiday",2016
+https://boardgamegeek.com/boardgame/361556/brand-new-zoo,361556,,"Brand New Zoo",2022
+https://boardgamegeek.com/boardgame/344072/codigo-ergo-sum,344072,,"Código Ergo Sum",2021
+https://boardgamegeek.com/boardgame/271373/fairy-fair,271373,,"Fairy Fair",2018
+https://boardgamegeek.com/boardgame/289470/federation-planetary-force,289470,,"Federation Planetary Force",2019
+https://boardgamegeek.com/boardgame/308115/fight-the-virus,308115,,"Fight the Virus",2020
+https://boardgamegeek.com/boardgame/294012/gameshop-shelf-stock,294012,,"Gameshop Shelf Stock",2019
+https://boardgamegeek.com/boardgame/312962/grazing-sheep,312962,,"Grazing Sheep",2018
+https://boardgamegeek.com/boardgame/400108/heart-of-venice,400108,,"Heart of Venice",2024
+https://boardgamegeek.com/boardgame/407882/the-infection-roll-write-and-fight,407882,,"The Infection: Roll, Write and Fight",2024
+https://boardgamegeek.com/boardgame/316710/kurruf-roll-and-write,316710,,"Kurrüf: Roll & Write",2020
+https://boardgamegeek.com/boardgame/271344/mushroom-ale,271344,,"Mushroom Ale",2018
+https://boardgamegeek.com/boardgame/357290/papillon-gardens,357290,,"Papillon Gardens",
+https://boardgamegeek.com/boardgame/365729/roll-and-write-railroads,365729,,"Roll & Write Railroads",2022
+https://boardgamegeek.com/boardgame/311030/roll-for-omaha-1944,311030,,"Roll For Omaha! 1944",2020
+https://boardgamegeek.com/boardgame/344679/rollway-station-2-tracks-of-the-trade,344679,,"Rollway Station 2: Tracks of the Trade",2021
+https://boardgamegeek.com/boardgameexpansion/368538/rome-and-roll-characters-expansion-2,368538,,"Rome & Roll: Characters Expansion 2",2022
+https://boardgamegeek.com/boardgame/359744/siege-of-the-eternal-night,359744,,"Siege of the Eternal Night",2022
+https://boardgamegeek.com/boardgame/336319/some-kind-of-genius,336319,,"Some Kind of Genius?",2021
+https://boardgamegeek.com/boardgame/262196/spellcraft-academy,262196,,"Spellcraft Academy",2018
+https://boardgamegeek.com/boardgame/301697/treasures-of-microlandia,301697,,"Treasures of Microlandia",2020
+https://boardgamegeek.com/boardgame/321359/46,321359,,"46",2020
+https://boardgamegeek.com/boardgame/307670/ascii-empires,307670,,"ASCII Empires",2019
+https://boardgamegeek.com/boardgame/363581/dice-park-dungeons-of-doom,363581,,"DICE PARK: Dungeons of Doom",2022
+https://boardgamegeek.com/boardgame/376710/dicevania-quintet-of-rolls,376710,,"Dicevania: Quintet of Rolls",2022
+https://boardgamegeek.com/boardgame/404540/dungeon-pages-overland-adventures,404540,,"Dungeon Pages: Overland Adventures",2024
+https://boardgamegeek.com/boardgame/290773/esquire,290773,,"Esquire",2019
+https://boardgamegeek.com/boardgame/36025/f-14-tomcats,36025,,"F-14 Tomcats",2001
+https://boardgamegeek.com/boardgameexpansion/293532/imperial-settlers-roll-and-write-halloween-2019-pr,293532,,"Imperial Settlers: Roll & Write – Halloween 2019 Promosheet",2019
+https://boardgamegeek.com/boardgame/356925/in-the-stars,356925,,"In the Stars",2023
+https://boardgamegeek.com/boardgame/347337/infection,347337,,"Infection",2020
+https://boardgamegeek.com/boardgame/296196/islands-of-atlantis,296196,,"Islands of Atlantis",2020
+https://boardgamegeek.com/boardgame/130919/legacy,130919,,"Legacy",2012
+https://boardgamegeek.com/boardgame/336316/master-your-castle,336316,,"Master Your Castle",2021
+https://boardgamegeek.com/boardgame/299670/miseries-of-the-night,299670,,"Miseries of the Night",2020
+https://boardgamegeek.com/boardgame/336314/ninja-panda,336314,,"Ninja Panda",2021
+https://boardgamegeek.com/boardgame/353232/on-deck-baseball,353232,,"On-Deck Baseball",2021
+https://boardgamegeek.com/boardgame/302085/paper-pinball-season-2,302085,,"Paper Pinball: Season 2",2020
+https://boardgamegeek.com/boardgame/361001/pestilence,361001,,"Pestilence",2022
+https://boardgamegeek.com/boardgame/290031/shadow-master,290031,,"Shadow Master",2019
+https://boardgamegeek.com/boardgame/233781/six-sided-stout,233781,,"Six Sided Stout",2017
+https://boardgamegeek.com/boardgame/392701/starship-commander-solitaire,392701,,"Starship Commander Solitaire",2023
+https://boardgamegeek.com/boardgame/349748/stegegets,349748,,"StegegetS",2022
+https://boardgamegeek.com/boardgame/271925/titans-of-dsyx,271925,,"Titans of Dsyx",2019
+https://boardgamegeek.com/boardgame/264969/a-walk-in-the-woods-a-print-and-play-game,264969,,"A Walk in the Woods: A Print and Play Game",2018
+https://boardgamegeek.com/boardgame/289759/warrior-of-the-wastes,289759,,"Warrior of the Wastes",2019
+https://boardgamegeek.com/boardgame/418461/way-of-the-samurai-roll-and-write,418461,,"Way of the Samurai: Roll & Write",2024
+https://boardgamegeek.com/boardgame/369255/xterminate-cute-creatures,369255,,"Xterminate Cute Creatures",2022
+https://boardgamegeek.com/boardgame/310069/beach-life,310069,,"Beach Life",2020
+https://boardgamegeek.com/boardgame/375521/bismarck-solitaire-midnight-edition,375521,,"Bismarck Solitaire: Midnight Edition",2022
+https://boardgamegeek.com/boardgame/325442/cheeseboard-deluxe,325442,,"Cheeseboard Deluxe",2020
+https://boardgamegeek.com/boardgame/354873/daddy-issues,354873,,"Daddy Issues",2022
+https://boardgamegeek.com/boardgame/343662/dead-road,343662,,"Dead Road",2021
+https://boardgamegeek.com/boardgame/320970/grbld,320970,,"GRBLD",2021
+https://boardgamegeek.com/boardgame/348707/hashtag,348707,,"#_Hashtag",2021
+https://boardgamegeek.com/boardgameexpansion/286825/imperial-settlers-roll-and-write-gen-con-2019-prom,286825,,"Imperial Settlers: Roll & Write – Gen Con 2019 Promosheet",2019
+https://boardgamegeek.com/boardgame/370850/the-kraken,370850,,"The Kraken",2022
+https://boardgamegeek.com/boardgameexpansion/392487/long-shot-the-dice-game-horse-set-7-trophy-mini-ex,392487,,"Long Shot: The Dice Game – Horse Set 7 (Trophy) Mini Expansion",2023
+https://boardgamegeek.com/boardgameexpansion/368795/madrino-2,368795,,"Madrino 2",2022
+https://boardgamegeek.com/boardgame/342088/make-a-wordsearch,342088,,"Make a wordsearch",2021
+https://boardgamegeek.com/boardgame/283808/paper-pinball-chromastodon,283808,,"Paper Pinball: Chromastodon",2019
+https://boardgamegeek.com/boardgame/360276/paper-railroad,360276,,"Paper Railroad",2022
+https://boardgamegeek.com/boardgame/312809/puerto-miau-roll-and-steal,312809,,"Puerto Miau: Roll and Steal",2020
+https://boardgamegeek.com/boardgame/363317/roll-or-die,363317,,"Roll or Die",2022
+https://boardgamegeek.com/boardgame/387304/rumors-of-gold,387304,,"Rumors of Gold",2023
+https://boardgamegeek.com/boardgame/339955/rune-and-write,339955,,"Rune & Write",2021
+https://boardgamegeek.com/boardgame/262769/seascrapers,262769,,"Seascrapers",2018
+https://boardgamegeek.com/boardgame/240608/semifinal-fantasy,240608,,"Semifinal Fantasy",2017
+https://boardgamegeek.com/boardgame/360354/spitfire-the-fight-for-air-supremacy,360354,,"Spitfire: The Fight for Air Supremacy",2022
+https://boardgamegeek.com/boardgame/285097/sudoku-rush,285097,,"Sudoku Rush",2019
+https://boardgamegeek.com/boardgame/376985/super-dice-heroes-saga,376985,,"Super Dice Heroes Saga",2023
+https://boardgamegeek.com/boardgame/338670/terranova,338670,,"TERRANOVA",2021
+https://boardgamegeek.com/boardgame/351827/torch-and-blade,351827,,"Torch & Blade",2021
+https://boardgamegeek.com/boardgame/401240/vitreum,401240,,"Vitreum",2023

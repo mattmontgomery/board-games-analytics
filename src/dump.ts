@@ -106,6 +106,10 @@ const TOP_1000_COOPERATIVE_GAMES = [
   108665, 300765, 148740, 273655, 304983, 3248, 223167, 140612, 140524, 325401,
 ];
 
+const TOP_1000_ROLL_AND_WRITE_GAMES: number[] = [];
+
+const GAMES = TOP_1000_ROLL_AND_WRITE_GAMES;
+
 import { OptionValues, program } from "commander";
 import { BggClient } from "boardgamegeekclient";
 program.parse();
@@ -114,13 +118,10 @@ async function main(options: OptionValues = {}) {
   const client = BggClient.Create();
   const chunkSize = 50;
   const results = [];
-  const chunks = Math.ceil(TOP_1000_COOPERATIVE_GAMES.length / chunkSize);
+  const chunks = Math.ceil(GAMES.length / chunkSize);
   process.stdout.write("[");
   for (let i = 0; i < chunks; i++) {
-    const chunk = TOP_1000_COOPERATIVE_GAMES.slice(
-      i * chunkSize,
-      i * chunkSize + chunkSize
-    );
+    const chunk = GAMES.slice(i * chunkSize, i * chunkSize + chunkSize);
     const things = await client.thing.query({
       id: chunk,
     });

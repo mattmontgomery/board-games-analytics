@@ -1,9 +1,12 @@
 import { BggClient } from "boardgamegeekclient";
-import top1000 from "../data/top-1000.json";
+import path from "path";
 
 type Games = Awaited<ReturnType<BggClient["thing"]["query"]>>;
 
-async function main(games: Games) {
+async function main(filename: string = "top-1000.json") {
+  console.log(filename);
+  const games = (await import(path.resolve(filename)))
+    .default as unknown as Games;
   console.log(
     games
       .flatMap((game) => {
@@ -22,4 +25,4 @@ async function main(games: Games) {
   );
 }
 
-main(top1000 as unknown as Games);
+main(process.argv[2] as string);

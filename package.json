@@ -13,6 +13,7 @@
     "dev:top:1000": "nodemon ./src/top.ts",
     "designers": "ts-node ./src/designers",
     "mechanics": "ts-node ./src/mechanics",
-    "year": "ts-node ./src/year"
+    "year": "ts-node ./src/year",
+    "by-mechanism": "ts-node ./src/retrieve-games-by-mechanism"
   }
 }
